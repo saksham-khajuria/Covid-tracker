@@ -44,3 +44,7 @@ To setup the app for development on your local machine, please follow the instru
 4. Visit <http://localhost:3000>
 
 
+## Visit 
+https://covid-tracker-saksham-khajuria.vercel.app/
+
+
